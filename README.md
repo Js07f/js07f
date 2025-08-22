@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3D03&height=200&section=header&text=Js&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD65C&height=200&section=header&text=Js&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40"/>
 
 <h1 align="center">Bem Vindo ao Meu Perfil 👋</h1>
 
