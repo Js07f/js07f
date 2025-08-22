@@ -1,6 +1,5 @@
 <p align="center">
-  <img alt="Pacman Contribution Graph Animado" src="https://raw.githubusercontent.com/js07f/js07f/output/pacman-contribution-graph.gif" width="600">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=200&section=header&text=RobertoTheDev&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40"/>
 
 <h1 align="center">Bem Vindo ao Meu Perfil 👋</h1>
 
