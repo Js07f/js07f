@@ -48,5 +48,4 @@ Aqui estão alguns dos meus projetos publicados no GitHub:
 ---
 
 ## 📫 Contato
-- GitHub: [github.com/Js07f](https://github.com/Js07f)  
 - Email: *josueevengelista123@gmail.com* 
