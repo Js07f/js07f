@@ -8,7 +8,7 @@ Meu foco atual é evoluir como programador e criar projetos que unam criatividad
 ---
 
 ## 🛠️ Habilidades
-- **Programação:** Python, JavaScript, C# (básico)  
+- **Programação:** node.js, JavaScript, C# (básico)  
 - **Game Engines:** GameMaker, Godot  
 - **Prompt Engineering:** estruturar ideias em prompts para gerar código eficiente  
 - **Soft Skills:** escuta ativa, prestatividade, conciliação de ideias  
